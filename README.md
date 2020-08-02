@@ -1,6 +1,7 @@
 # Shrek Alarm
 The safest security system ever created. When intruders will make any movement inside your house, Shrek will be ready to welcome them!
 
+![Demo](shrekAlarm.gif)
 The project is made of three parts:
 - Raspberry Pi (I used the model 3 B+) with a PIR sensor
 - A Windows machine
@@ -13,6 +14,7 @@ The project is made of three parts:
 - Also needs the `socket` python library to connect to the Windows laptop and send an intruder signal
 
 ![The Raspberry pi](raspberry.jpg)
+![The PIR sensor](sensor.jpg)
 
 ### Windows Laptop and Lights
 I am using a LIFX Mini Color bulb screwed to a cheak Kmart lamp. It is connected to the same wifi as the laptop
