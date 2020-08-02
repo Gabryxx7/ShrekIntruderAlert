@@ -2,6 +2,7 @@
 The safest security system ever created. When intruders will make any movement inside your house, Shrek will be ready to welcome them!
 
 ![Demo](shrekAlarm.gif)
+
 The project is made of three parts:
 - Raspberry Pi (I used the model 3 B+) with a PIR sensor
 - A Windows machine
